@@ -1,0 +1,10 @@
+<hull.model>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>	-1.427100 -0.378311 -3.068238	</min>
+    <max>	1.427100 1.237952 2.739939	</max>
+  </visibilityBox>
+  <tank>	true	</tank>
+  <nodefullVisual>vehicles/avalon/Sherman_IVCY/normal/lod0/Hull</nodefullVisual>
+</hull.model>

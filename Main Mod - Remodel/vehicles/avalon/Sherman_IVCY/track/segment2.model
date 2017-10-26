@@ -1,0 +1,9 @@
+<segment2.model>
+  <nodelessVisual>vehicles/avalon/Sherman_IVCY/track/segment2</nodelessVisual>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-0.245214 -0.000000 -0.0618169</min>
+    <max>0.244418 0.0373876 0.0659065</max>
+  </visibilityBox>
+</segment2.model>
